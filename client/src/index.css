@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-color: #160d19;
+    color: white;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.leaflet-container {
+    height: 100vh;
+    
+  }
+  
